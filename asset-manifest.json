@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7b5ecf3.css",
-    "main.js": "/static/js/main.f7f41eb2.js",
-    "static/media/portfolio3.gif": "/static/media/portfolio3.e59d899fcb740a86caa8.gif",
-    "static/media/cv.pdf": "/static/media/cv.438b49f60200273e0d2d.pdf",
-    "static/media/portfolio1.gif": "/static/media/portfolio1.3497ab039a41dd6184e7.gif",
-    "static/media/me.png": "/static/media/me.0f89bdbc6f167c6126db.png",
-    "static/media/me-about.jpg": "/static/media/me-about.9f1b96d0e9bd87b8d0c2.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.7d8138e7f4937c778b8c.jpg",
-    "static/media/portfolio5.jpg": "/static/media/portfolio5.71e83c8939374968b0e9.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.0e3997bbdd4ef2f7cd72.jpg",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.b667a2fde39a16a89bb7.jpg",
-    "index.html": "/index.html",
-    "main.e7b5ecf3.css.map": "/static/css/main.e7b5ecf3.css.map",
-    "main.f7f41eb2.js.map": "/static/js/main.f7f41eb2.js.map"
+    "main.css": "/web-portfolio/static/css/main.e7b5ecf3.css",
+    "main.js": "/web-portfolio/static/js/main.269a3fc3.js",
+    "static/media/portfolio3.gif": "/web-portfolio/static/media/portfolio3.e59d899fcb740a86caa8.gif",
+    "static/media/cv.pdf": "/web-portfolio/static/media/cv.438b49f60200273e0d2d.pdf",
+    "static/media/portfolio1.gif": "/web-portfolio/static/media/portfolio1.3497ab039a41dd6184e7.gif",
+    "static/media/me.png": "/web-portfolio/static/media/me.0f89bdbc6f167c6126db.png",
+    "static/media/me-about.jpg": "/web-portfolio/static/media/me-about.9f1b96d0e9bd87b8d0c2.jpg",
+    "static/media/portfolio6.jpg": "/web-portfolio/static/media/portfolio6.7d8138e7f4937c778b8c.jpg",
+    "static/media/portfolio5.jpg": "/web-portfolio/static/media/portfolio5.71e83c8939374968b0e9.jpg",
+    "static/media/portfolio4.jpg": "/web-portfolio/static/media/portfolio4.0e3997bbdd4ef2f7cd72.jpg",
+    "static/media/portfolio2.jpg": "/web-portfolio/static/media/portfolio2.b667a2fde39a16a89bb7.jpg",
+    "index.html": "/web-portfolio/index.html",
+    "main.e7b5ecf3.css.map": "/web-portfolio/static/css/main.e7b5ecf3.css.map",
+    "main.269a3fc3.js.map": "/web-portfolio/static/js/main.269a3fc3.js.map"
   },
   "entrypoints": [
     "static/css/main.e7b5ecf3.css",
-    "static/js/main.f7f41eb2.js"
+    "static/js/main.269a3fc3.js"
   ]
 }
