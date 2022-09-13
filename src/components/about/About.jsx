@@ -28,7 +28,7 @@ const About = () => {
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Freelancer - UX/UI/CX - Front-End Developer</h5>
+              <h5>Freelancer - UX/UI/X - Front-End Developer</h5>
               <small>50+ clients Worldwide</small>
             </article>
 
@@ -44,7 +44,7 @@ const About = () => {
           </p>
 
           <p>
-          My educational background is in Architecture, User Experience, User Interface and Customer Experience Design and software development.
+          My educational background is in Architecture, User Experience, User Interface and Customer Experience Design and Software Development.
             </p>
 
             <p> 
